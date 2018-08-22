@@ -21,7 +21,7 @@ p {
 
 .controls {
     visibility: hidden;
-    opacity: 0.01;
+    opacity: 0.05;
     width: 400px;
     border-radius: 10px;
     position: absolute;
@@ -92,7 +92,7 @@ button {
 
 .timer div {
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, .2);
     left: 0;
     top: 0;
     width: 0;
